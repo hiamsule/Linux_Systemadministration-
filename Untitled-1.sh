@@ -19,4 +19,4 @@ The second argument is: world
 The third argument is: 123
 
 #yani $# =komut dosyasına geçirilen argümanların sayısını belirtir.
-# $1, $2, $3 sembolleri ise, sırasıyla, birinci, ikinci ve üçüncü argümanların değerini belirtir.
+# $1, $2, $3 ise, sırasıyla, birinci, ikinci ve üçüncü argümanların değerini belirtir.
